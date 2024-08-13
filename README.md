@@ -1,2 +1,1 @@
-# simple-calculator-in-python
-This is simple calculator
+Python Projects
